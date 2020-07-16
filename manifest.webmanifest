@@ -1,5 +1,7 @@
 {
   "name": "Simplest Web App Manifest",
+  "short_name": "simplest PWA",
   "display": "standalone",
-  "start_url": "."
+  "start_url": ".",
+  "theme_color": "black"
 }
