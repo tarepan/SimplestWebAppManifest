@@ -1,6 +1,5 @@
 {
   "name": "Simplest Web App Manifest",
   "display": "standalone",
-  "scope": "/",
-  "start_url": "/"
+  "start_url": "."
 }
